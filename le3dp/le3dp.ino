@@ -1,7 +1,7 @@
 /* Simplified Logitech Extreme 3D Pro Joystick Report Parser 
  * Ejemplo modificado por SETISAEDU para el control de salidas digitales y servomotores
  */
-#include <hid.h>
+#include <usbhid.h>
 #include <hiduniversal.h>
 #include <usbhub.h>
 
